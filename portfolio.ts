@@ -224,6 +224,6 @@ export const seoData: SEODataType = {
   description: greetings.description,
   author: "TP817",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://developer-portfolio-1hanzla100.vercel.app",
+  url: "https://tp817-portfolio.vercel.app/",
   keywords: ["TP817", "TP817", "TP817", "TP817", "Portfolio", "TP817 Portfolio ", "TP817 Portfolio"],
 };
