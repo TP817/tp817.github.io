@@ -27,10 +27,10 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:hordii@insurfit.ai",
+  phone: "+1 5746355314",
   // linkedin: "https://www.linkedin.com/",
   // github: "https://github.com/tp817",
   // instagram: "https://www.instagram.com/",
-  phone: "+1 5746355314",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
 };
@@ -224,8 +224,8 @@ export const seoData: SEODataType = {
   title: "HORDII KOVALENKO",
   description: greetings.description,
   author: "HORDII KOVALENKO",
-  image: "https://avatars.githubusercontent.com/u/59178380?v=4",
-  url: "https://tp817-portfolio.vercel.app/",
+  // image: "https://avatars.githubusercontent.com/u/59178380?v=4",
+  url: "https://hordii.vercel.app/",
   keywords: [
     "HORDII KOVALENKO",
     "HORDII KOVALENKO",
