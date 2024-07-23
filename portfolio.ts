@@ -177,7 +177,7 @@ export const projects: ProjectType[] = [
   },
   {
     name: "Syte",
-    desc: "Syte is a visual AI company that specializes in powering visual search and recommendation solutions for e-commerce businesses. T",
+    desc: "Syte is a visual AI company that specializes in powering visual search and recommendation solutions for e-commerce businesses.",
     link: "https://www.syte.ai/",
   },
   {
