@@ -13,7 +13,7 @@ import {
 
 export const greetings: GreetingsType = {
   name: "HORDII KOVALENKO",
-  title: "Hi all, I'm HORDII KOVALENKO",
+  title: "Hi all, I'm Hordii Kovalenko from Ukraine.",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with MERN, MEAN, Python, AI and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
@@ -27,9 +27,10 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:hordii@insurfit.ai",
-  linkedin: "https://www.linkedin.com/",
-  github: "https://github.com/tp817",
-  instagram: "https://www.instagram.com/",
+  // linkedin: "https://www.linkedin.com/",
+  // github: "https://github.com/tp817",
+  // instagram: "https://www.instagram.com/",
+  phone: "+1 5746355314",
   // facebook: 'https://www.facebook.com/1hanzla100',
   // twitter: 'https://twitter.com/1hanzla100',
 };
