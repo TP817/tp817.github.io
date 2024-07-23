@@ -12,8 +12,8 @@ import {
 } from "./types/sections";
 
 export const greetings: GreetingsType = {
-  name: "TP817",
-  title: "Hi all, I'm TP817",
+  name: "HORDII KOVALENKO",
+  title: "Hi all, I'm HORDII KOVALENKO",
   description:
     "I'm a passionate Full Stack web developer with experience developing Full Stack web applications with MERN, MEAN, Python, AI and Cloud Technologies. I am strongly interested in learning new technologies and implementing them in my projects. I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.",
   resumeLink: "#",
@@ -26,7 +26,7 @@ export const openSource = {
 export const contact = {};
 
 export const socialLinks: SocialLinksType = {
-  email: "mailto:tp817@gmail.com",
+  email: "mailto:hordii@insurfit.ai",
   linkedin: "https://www.linkedin.com/",
   github: "https://github.com/tp817",
   instagram: "https://www.instagram.com/",
@@ -220,10 +220,18 @@ export const feedbacks: FeedbackType[] = [
 
 // See object prototype on /types/section.ts page
 export const seoData: SEODataType = {
-  title: "TP817",
+  title: "HORDII KOVALENKO",
   description: greetings.description,
-  author: "TP817",
+  author: "HORDII KOVALENKO",
   image: "https://avatars.githubusercontent.com/u/59178380?v=4",
   url: "https://tp817-portfolio.vercel.app/",
-  keywords: ["TP817", "TP817", "TP817", "TP817", "Portfolio", "TP817 Portfolio ", "TP817 Portfolio"],
+  keywords: [
+    "HORDII KOVALENKO",
+    "HORDII KOVALENKO",
+    "HORDII KOVALENKO",
+    "HORDII KOVALENKO",
+    "Portfolio",
+    "HORDII KOVALENKO Portfolio ",
+    "HORDII KOVALENKO Portfolio",
+  ],
 };
