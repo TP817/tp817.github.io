@@ -19,6 +19,20 @@ const SocialLinks = () => {
           </span>
         </Button>
       )}
+      {socialLinks.phone && (
+        <Button
+          className="btn-icon-only rounded-circle ml-1"
+          color="white"
+          rel="noopener"
+          aria-label="URL"
+          href={socialLinks.url}
+          target="_blank"
+        >
+          <span className="btn-inner--icon">
+            <i className="fa fa-phone" />
+          </span>
+        </Button>
+      )}
       {socialLinks.linkedin && (
         <Button
           className="btn-icon-only rounded-circle ml-1"
