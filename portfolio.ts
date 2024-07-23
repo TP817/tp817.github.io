@@ -27,7 +27,7 @@ export const contact = {};
 
 export const socialLinks: SocialLinksType = {
   email: "mailto:hordii@insurfit.ai",
-  phone: "+1 5746355314",
+  phone: "tel:+1 5746355314",
   // linkedin: "https://www.linkedin.com/",
   // github: "https://github.com/tp817",
   // instagram: "https://www.instagram.com/",
